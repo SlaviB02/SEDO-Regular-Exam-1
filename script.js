@@ -20,3 +20,4 @@ document.getElementById('random-btn').addEventListener('click', function() {
   setBoxColor(color);
 
 });
+
